@@ -3,7 +3,7 @@
 <a href="https://claude.ai/public/artifacts/4d1846f5-724d-4936-ba8e-fa4f8970fe17" target="_blank">Visit here...</a>
 
 <h2>Features</h2>
-<h2>Visual Elements:</h2>
+<p>Visual Elements</p>
 <ul>
   <li>☀️ The Sun at the center with a glowing effect</li>
   <li>🪐 All 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)</li>
@@ -13,7 +13,7 @@
 </ul>
 
 
-<h2>Interactive Controls:</h2>
+<h2>Interactive Controls</h2>
 <ul>
   <li>🖱️ Drag to rotate your viewpoint</li>
   <li>🖱️ Scroll to zoom in/out</li>
@@ -25,13 +25,13 @@
 </ul>
 
 <h2>Educational Information</h2>
-<p>Each planet displays:</p>
+<p>Each planet displays</p>
 <ul>
-  Diameter
-Distance from the Sun
-Day length (rotation period)
-Year length (orbital period)
-Number of moons
-Interesting description
+  <li>Diameter</li>
+  <li>Distance from the Sun</li>
+  <li>Day length (rotation period)</li>
+  <li>Year length (orbital period)</li>
+  <li>Number of moons</li>
+  <li>Interesting description</li>
 </ul>
 
