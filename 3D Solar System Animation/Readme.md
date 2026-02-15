@@ -2,25 +2,6 @@
 
 <a href="https://claude.ai/public/artifacts/4d1846f5-724d-4936-ba8e-fa4f8970fe17" target="_blank">Visit</a>
 
-<h2>Game Features</h2>
-
-<p><strong>Multiple Math Operations</strong></p>
-<ul>
-  <li>Addition</li>
-  <li>Subtraction</li>
-  <li>Multiplication</li>
-  <li>Division</li>
-</ul>
-
-<p><strong>Real-Time Score Tracking</strong><br>
-Displays total Correct and Incorrect answers at the top.</p>
-
-<ul>
-  <li>Correct answers are counted as <strong>Correct</strong></li>
-  <li>Wrong answers are counted as <strong>Incorrect</strong></li>
-</ul>
-
-
 <h2>Features</h2>
 <h2>Visual Elements:</h2>
 <ul>
