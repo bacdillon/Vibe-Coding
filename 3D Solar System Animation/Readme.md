@@ -1,5 +1,6 @@
 # 3D Solar System Animation
 <a https://claude.ai/public/artifacts/4d1846f5-724d-4936-ba8e-fa4f8970fe17>Visit</a>
+<a href="https://claude.ai/public/artifacts/4d1846f5-724d-4936-ba8e-fa4f8970fe17" target="_blank">Visit</a>
 
 <h2>Game Features</h2>
 
