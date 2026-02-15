@@ -1,5 +1,5 @@
 # Math Game
-👉 <a href="https://gemini.google.com/share/5adff5d808e7" target="_blank">Math Game</a>
+👉 <a href="https://gemini.google.com/share/696f047df272" target="_blank">Math Game</a>
 
 <h2>Game Features</h2>
 
