@@ -1,5 +1,5 @@
 # Math Game
-<a href="https://bacdillon.github.io/Vibe-Coding/Math%20Game/index.html" target="_blank">Math Game</a>
+👉 <a href="https://bacdillon.github.io/Vibe-Coding/Math%20Game/index.html" target="_blank">Math Game</a>
 
 <h2>Game Features</h2>
 
