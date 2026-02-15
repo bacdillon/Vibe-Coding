@@ -1,5 +1,5 @@
 # 3D Solar System Animation
-![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Mj%C3%B6lnir%20vs%20Aliens/Mj%C3%B6lnir%20vs%20Aliens.jpg)
+![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Mj%C3%B6lnir%20vs%20Aliens/Mj%C3%B6lnir%20vs%20Aliens.jpg) <br>
 👉 <a href="https://claude.ai/public/artifacts/4d1846f5-724d-4936-ba8e-fa4f8970fe17" target="_blank">3D Solar System Animation</a>
 
 <h2>Features</h2>
