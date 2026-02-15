@@ -1,4 +1,4 @@
-# Vibe Coding Lab
+# Math Game
 <a href="https://bacdillon.github.io/VibeCodeLab/Math%20Game/index.html" target="_blank">Math Game</a>
 
 <h2>Game Features</h2>
