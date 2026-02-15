@@ -5,10 +5,9 @@
 <strong>A high-octane, Norse-themed Whack-A-Mole reimagining.</strong>
 <br />
 Defend Asgard from an intergalactic invasion using the power of the mighty Mjölnir!</p>
-👉 <a href="https://gemini.google.com/share/bea484289123" target="_blank">Play!</a><br>
-![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Mj%C3%B6lnir%20vs%20Aliens/Mj%C3%B6lnir%20vs%20Aliens.jpg)
+👉 <a href="https://gemini.google.com/share/bea484289123" target="_blank">Play!</a>
 </div>
-
+![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Mj%C3%B6lnir%20vs%20Aliens/Mj%C3%B6lnir%20vs%20Aliens.jpg)
 <h2>Game Overview</h2>
 
 Mjölnir vs Aliens is a fast-paced arcade game built for the web. Players take on the role of Thor, wielding his legendary hammer to repel waves of alien invaders popping out of cosmic portals. The game features a responsive design, multiple difficulty tiers, and a local "Hall of Heroes" to track your legendary progress.
