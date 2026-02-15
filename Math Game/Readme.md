@@ -1,5 +1,5 @@
 # Math Game
-![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/vibe%20coding.jpg)
+![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Math%20Game/Math%20tutorial.jpg)
 
 👉 <a href="https://gemini.google.com/share/696f047df272" target="_blank">Math Game</a>
 
