@@ -21,14 +21,16 @@ Displays total Correct and Incorrect answers at the top.</p>
 </ul>
 
 
-<h2>Features:</h2>
+<h2>Features</h2>
 <h2>Visual Elements:</h2>
+<ul>
+  <li>☀️ The Sun at the center with a glowing effect</li>
+  <li>🪐 All 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)</li>
+  <li>💫 Saturn's iconic rings</li>
+  <li>⭐ 5,500+ stars in the background with varying sizes and colors</li>
+  <li>🌌 Realistic 3D lighting and shadows</li>
+</ul>
 
-☀️ The Sun at the center with a glowing effect
-🪐 All 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)
-💫 Saturn's iconic rings
-⭐ 5,500+ stars in the background with varying sizes and colors
-🌌 Realistic 3D lighting and shadows
 
 <h2>Interactive Controls:</h2>
 
