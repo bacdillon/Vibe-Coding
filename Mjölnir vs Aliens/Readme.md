@@ -10,11 +10,11 @@ Defend Asgard from an intergalactic invasion using the power of the mighty Mjöl
 
 <hr />
 
-🎮 Game Overview
+<h2>Game Overview</h2>
 
 Mjölnir vs Aliens is a fast-paced arcade game built for the web. Players take on the role of Thor, wielding his legendary hammer to repel waves of alien invaders popping out of cosmic portals. The game features a responsive design, multiple difficulty tiers, and a local "Hall of Heroes" to track your legendary progress.
 
-✨ Key Features
+<h2>Key Features</h2>
 
 <ul>
 <li><strong>Mjölnir Hammer Mechanic:</strong> Custom-coded mallet cursor with dynamic "whacking" animations and sound effects.</li>
@@ -24,7 +24,7 @@ Mjölnir vs Aliens is a fast-paced arcade game built for the web. Players take o
 <li><strong>Fluid Responsiveness:</strong> Optimized for all screen sizes, ensuring the battlefield fits perfectly on desktop and mobile.</li>
 </ul>
 
-🛠️ Technical Stack
+<h2>Technical Stack</h2>
 
 Frontend: HTML5, Tailwind CSS for modern glassmorphism UI.
 
@@ -36,7 +36,7 @@ Storage: LocalStorage API for persistent score tracking without a backend.
 
 Visuals: SVG-based game assets and CSS3 animations.
 
-🚀 How to Play
+<h2>How to Play</h2>
 
 Open the game in any modern web browser.
 
