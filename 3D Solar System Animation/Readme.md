@@ -21,8 +21,8 @@ Displays total Correct and Incorrect answers at the top.</p>
 </ul>
 
 
-Features:
-Visual Elements:
+<h2>Features:</h2>
+<h2>Visual Elements:</h2>
 
 ☀️ The Sun at the center with a glowing effect
 🪐 All 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)
@@ -30,7 +30,7 @@ Visual Elements:
 ⭐ 5,500+ stars in the background with varying sizes and colors
 🌌 Realistic 3D lighting and shadows
 
-Interactive Controls:
+<h2>Interactive Controls:</h2>
 
 🖱️ Drag to rotate your viewpoint
 🖱️ Scroll to zoom in/out
