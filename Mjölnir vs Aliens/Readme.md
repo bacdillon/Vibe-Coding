@@ -5,6 +5,8 @@
 <strong>A high-octane, Norse-themed Whack-A-Mole reimagining.</strong>
 <br />
 Defend Asgard from an intergalactic invasion using the power of the mighty Mjölnir!
+👉 <a href="https://gemini.google.com/share/bea484289123" target="_blank">Play!</a>
+
 </p>
 </div>
 
