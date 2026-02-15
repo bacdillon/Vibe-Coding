@@ -1,6 +1,6 @@
 # Math Game
 👉 <a href="https://gemini.google.com/share/696f047df272" target="_blank">Math Game</a>
-
+![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/vibe%20coding.jpg)
 <h2>Game Features</h2>
 
 <p><strong>Multiple Math Operations</strong></p>
