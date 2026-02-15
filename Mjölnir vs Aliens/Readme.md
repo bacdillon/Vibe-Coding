@@ -8,8 +8,6 @@ Defend Asgard from an intergalactic invasion using the power of the mighty Mjöl
 </p>
 </div>
 
-<hr />
-
 <h2>Game Overview</h2>
 
 Mjölnir vs Aliens is a fast-paced arcade game built for the web. Players take on the role of Thor, wielding his legendary hammer to repel waves of alien invaders popping out of cosmic portals. The game features a responsive design, multiple difficulty tiers, and a local "Hall of Heroes" to track your legendary progress.
@@ -48,6 +46,3 @@ Click "Defend Asgard" and start whacking as many aliens as possible before the t
 
 <br />
 
-<div align="center">
-<p><em>Created with lightning and thunder by Dillon Bac.</em></p>
-</div>
