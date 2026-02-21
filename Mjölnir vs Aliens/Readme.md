@@ -6,8 +6,7 @@
 <br />
 Defend Asgard from an intergalactic invasion using the power of the mighty Mjölnir!
 👉 <a href="https://gemini.google.com/share/a8ef1772e8a6" target="_blank">Play!</a></P>
-</div>
-<a href="https://gemini.google.com/share/696f047df272" target="_blank">![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Mj%C3%B6lnir%20vs%20Aliens/Mj%C3%B6lnir%20vs%20Aliens.jpg)</a>
+
 ![Alt Text](https://github.com/bacdillon/Vibe-Coding/blob/main/Mj%C3%B6lnir%20vs%20Aliens/Mj%C3%B6lnir%20vs%20Aliens.jpg)
 
 <h2>Game Overview</h2>
