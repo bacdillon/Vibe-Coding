@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>BMI Calculator</h1>
+            <p class="subtitle">Track your Body Mass Index over time</p>
+        </header>
+
+        <main>
+            <section class="calculator-card">
+                <h2>Calculate BMI</h2>
+                <form id="bmi-form">
+                    <div class="form-group">
+                        <label for="weight">Weight (kg)</label>
+                        <input type="number" id="weight" name="weight" step="0.1" min="20" max="300" placeholder="e.g. 70" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="height">Height (cm)</label>
+                        <input type="number" id="height" name="height" min="50" max="250" placeholder="e.g. 175" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Your Name (optional)</label>
+                        <input type="text" id="name" name="name" placeholder="For history tracking">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Calculate BMI</button>
+                </form>
+
+                <div id="result" class="result hidden">
+                    <div class="bmi-value" id="bmi-value">0</div>
+                    <div class="bmi-category" id="bmi-category"></div>
+                    <p class="bmi-interpretation" id="bmi-interpretation"></p>
+                </div>
+            </section>
+
+            <section class="history-card">
+                <h2>Calculation History</h2>
+                <div id="history-list" class="history-list">
+                    <p class="empty-state" id="empty-state">No calculations yet. Calculate your BMI above!</p>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>BMI Categories: Underweight &lt;18.5 | Normal 18.5–24.9 | Overweight 25–29.9 | Obese ≥30</p>
+        </footer>
+    </div>
+    <script src="static/app.js"></script>
+</body>
+</html>
